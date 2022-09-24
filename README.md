@@ -11,7 +11,7 @@
 ### Инструменты:
 - DevTools, Postman, SoapUi, Jira, GitBush, Visual Studio Code
 
-![DevTools](https://img.shields.io/badge/DevTools-000000?style=for-the-badge&logo=google&logoColor=FFFF00)
+![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat-square&logo=google)
 
 ### Обо мне:
 Постоянно совершенствую свои навыки в сфере тестирования ПО, работая на практике, изучая теорию и новые инструменты.
