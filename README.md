@@ -11,6 +11,7 @@
 ### Инструменты:
 - DevTools, Postman, SoapUi, Jira, GitBush, Visual Studio Code
 
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman)
 ![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat-square&logo=google)
 
 ### Обо мне:
