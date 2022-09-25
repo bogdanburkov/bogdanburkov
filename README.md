@@ -20,7 +20,7 @@
 
 ### Связь со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/bogdan_bs)
-[![e-mail](https://img.shields.io/badge/email-0000FF?style=for-the-badge&logo=mail.ru&logoColor=FFA500)](bogdanburkov@mail.ru)
+[![e-mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=mail.ru&logoColor=FFA500)](https://bogdanburkov@mail.ru)
 
 ### Обо мне:
 Постоянно совершенствую свои навыки в сфере тестирования ПО, работая на практике, изучая теорию и новые инструменты.
